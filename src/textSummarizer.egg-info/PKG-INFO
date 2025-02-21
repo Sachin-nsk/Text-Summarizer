@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: textSummarizer
+Version: 0.0.0
+Summary: Python package for NLP app
+Home-page: https://github.com/Sachin-nsk/Text-Summarizer
+Author: Sachin-nsk
+Author-email: 
+Project-URL: Bug Tracker, https://github.com/Sachin-nsk/Text-Summarizer/issues
+License-File: LICENSE
+Dynamic: author
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Text-Summarizer
